@@ -4,7 +4,7 @@
 			{
 				"name": "debian",
 				"tag": "buster-slim",
-				"digest": "240f770008bdc538fecc8d3fa7a32a533eac55c14cbc56a9a8a6f7d741b47e33"
+				"digest": "db47ae520efd803e24c04b7224aa01a696a3d62db8094438fe4160fab8427c63"
 			}
 		]
 	}
